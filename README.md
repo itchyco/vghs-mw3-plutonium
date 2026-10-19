@@ -264,6 +264,12 @@ change logoSize and margin.
 
 ------------------------------------------------------------------------
 
+IMPORTANT 
+You need to use the LanLauncher made by JugAndDoubleTap, so Plutonium doesn't update and remove the edited files 
+https://github.com/JugAndDoubleTap/LanLauncher
+
+------------------------------------------------------------------------
+
 Troubleshooting
 
 | Problem | What to try | |---|---| | No bots, or no "welcome to Bot
