@@ -17,6 +17,12 @@ names, and world it uses goes to them.
   Fan project. Not affiliated with or endorsed by Video Game High
   School, RocketJump, Activision, Plutonium, or the Bot Warfare authors.
   See Credits and disclaimer.
+  
+<img width="450" height="250" alt="Screenshot 2026-10-19 111637" src="https://github.com/user-attachments/assets/54a03a57-f29d-4635-bf6f-20557bdeb483" />
+
+<img width="450" height="250" alt="Screenshot 2026-10-19 111654" src="https://github.com/user-attachments/assets/06a0ef29-bdaf-4c46-875a-838b6ece115b" />
+
+<img width="450" height="250" alt="Screenshot 2026-10-19 111705" src="https://github.com/user-attachments/assets/1a9f6cd8-32e9-4e82-a6f9-54d7a0d4233c" />
 
 ------------------------------------------------------------------------
 
