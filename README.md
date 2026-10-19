@@ -314,6 +314,10 @@ Things that were tried and left out
 
 ------------------------------------------------------------------------
 
+<img width="450" height="150" alt="Screenshot 2026-10-19 111230" src="https://github.com/user-attachments/assets/daf5da24-37cd-4ae9-8e71-017f057a894d" />
+
+------------------------------------------------------------------------
+
 Uninstall
 
 Delete the mod's files from scripts\mp and images, and delete
